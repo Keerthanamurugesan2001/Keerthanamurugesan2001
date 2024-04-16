@@ -47,6 +47,7 @@ I am currently working at SoftSuave and have been with the company for 2 years (
    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>   Flask </a>
    <a href="https://trypyramid.com/" target="_blank" rel="noreferrer"> <img src="https://trypyramid.com/img/pyramid-60x60.png"  alt="Pyramid" width="40" height="40"/> Pyramid </a>
    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="streamlit" width="40" height="40"/> Streamlit </a>
+   <a href="https://frappeframework.com/" target="_blank" rel="noreferrer"> <img src="https://frappeframework.com/files/frappeframework-logo2a3e81.png" alt="frappe" width="40" height="40"/> Frappe </a>
 
 ## Containerization
 
