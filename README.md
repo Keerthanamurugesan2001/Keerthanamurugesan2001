@@ -1,5 +1,16 @@
 <h1 align="center">Hi 👋, I'm keerthana</h1>
-<h3 align="center">I specialize in crafting software using Python, Node.js, and Angular, and I love turning complex problems into simple, elegant, and intuitive solutions. My journey in the world of coding has led me to work on a variety of projects, where I've gained valuable experience in creating web applications, APIs, and more.</h3>
+
+I am currently working at SoftSuave and have been with the company for 2 years (still counting!).
+<h2 align="center"> Work Experience </h2>
+- **SoftSuave**: [Software Engineer] (2022 - Joining)
+  - Worked on:
+    - Pyramid project
+    - Angular and Node project
+    - Currently working on ERPNext
+<h2 align="center"> Personal Projects </h2>
+- **YouTube Channel**: [Your Channel Name]
+  - Duration: 2 years (paused, but planning to continue)
+  - Description: I run a YouTube channel where I teach concepts related to Python. I've gained valuable knowledge in this field and want to share it with others.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthanamuruge&label=Profile%20views&color=0e75b6&style=flat" alt="keerthanamuruge" /> </p>
 
@@ -13,6 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="[https://discuss.frappe.io/u/keerthana_2001" target="blank"><img align="center" src="https://discuss.frappe.io/uploads/default/original/3X/1/5/156eac2b3bfc2872282d2c6a929e91252e4983c0.png" alt="https://discuss.frappe.io/u/keerthana_2001" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/keerthana-m-a548011bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/keerthana-m-a548011bb/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@programmingwithkeerthu1047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@programmingwithkeerthu1047" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dashboard" height="30" width="40" /></a>
