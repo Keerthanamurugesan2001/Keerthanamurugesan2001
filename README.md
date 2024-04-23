@@ -10,7 +10,7 @@ I am currently working at SoftSuave and have been with the company for 2 years (
 ## Personal Projects
 - **YouTube Channel**: [Programming with Keerthu](https://www.youtube.com/@programmingwithkeerthu1047)
   - Duration: 2 years (paused, but planning to continue)
-  - Description: I run a YouTube channel where I teach concepts related to Python. I've gained valuable knowledge in this field and want to share it with others.
+  - Description: I run a YouTube channel where I teach concepts related to Python.
 
 - 🔭 I’m currently working on **ERPNext**
 
