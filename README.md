@@ -68,6 +68,10 @@ I am currently working at SoftSuave and have been with the company for 2 years (
  <a href="https://us-east-1.console.aws.amazon.com/ec2/home" target="_blank" rel="noreferrer"> <img src="https://d2q66yyjeovezo.cloudfront.net/icon/d88319dfa5d204f019b4284149886c59-7d586ea82f792b61a8c87de60565133d.svg" alt="ec2" width="40" height="40"/> EC2 </a>
 <a href="https://us-east-1.console.aws.amazon.com/s3/get-started" target="_blank" rel="noreferrer"> <img src="https://d2q66yyjeovezo.cloudfront.net/icon/c0828e0381730befd1f7a025057c74fb-43acc0496e64afba82dbc9ab774dc622.svg" alt="s3" width="40" height="40"/> S3 </a>
 
+### GCP
+[Bigquery](https://cloud.google.com/bigquery),
+[Firestore](https://cloud.google.com/firestore),
+[Secret Manager](https://cloud.google.com/security/products/secret-manager)
 
 
 ## OS
