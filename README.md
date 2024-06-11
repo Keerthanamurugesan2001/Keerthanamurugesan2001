@@ -1,8 +1,8 @@
 # Hi 👋, I'm keerthana
 
-I am currently working at SoftSuave and have been with the company for 2 years (still counting!).
+I am currently working at SoftSuave and have been with the company for some years (still counting!).
 ## Work Experience
-- **SoftSuave**: [Software Engineer] (2022 - Joining)
+- **SoftSuave**: [Software Engineer]
   - Worked on:
     - Pyramid project
     - Angular and Node project
