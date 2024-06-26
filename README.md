@@ -17,6 +17,12 @@ I am currently working at SoftSuave and have been with the company for some year
 - 💬 Ask me about **Frappe, Django, Angular, Pyramid**
 
 - 📫 How to reach me **keerthuofficial@gmail.com**
+### 🐱My Github stats:
+![Keerthana's Github Stats](https://github-readme-stats.vercel.app/api?username=Keerthanamurugesan2001&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=[%22stars%22])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthanamurugesan2001&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
