@@ -1,6 +1,6 @@
 # Hi 👋, I'm keerthana
 
-I am currently working at SoftSuave and have been with the company for some years (still counting!).
+I currently work at SoftSuave.
 ## Work Experience
 - **SoftSuave**: [Software Engineer]
   - Worked on:
@@ -8,15 +8,10 @@ I am currently working at SoftSuave and have been with the company for some year
     - Angular and Node project
     - Currently working on ERPNext
 ## Personal Projects
-- **YouTube Channel**: [Programming with Keerthu](https://www.youtube.com/@programmingwithkeerthu1047)
-  - Duration: 2 years (paused, but planning to continue)
-  - Description: I run a YouTube channel where I teach concepts related to Python.
-
 - 🔭 I’m currently working on **ERPNext**
-
 - 💬 Ask me about **Frappe, Django, Angular, Pyramid**
-
 - 📫 How to reach me **keerthuofficial@gmail.com**
+  
 ### 🐱My Github stats:
 ![Keerthana's Github Stats](https://github-readme-stats.vercel.app/api?username=Keerthanamurugesan2001&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=[%22stars%22])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthanamurugesan2001&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
