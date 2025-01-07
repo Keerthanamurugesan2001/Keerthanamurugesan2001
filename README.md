@@ -1,4 +1,4 @@
-# Hi 👋, I'm keerthana
+# Hi 👋, I'm Keerthana
 
 I currently work at SoftSuave.
 ## Work Experience
