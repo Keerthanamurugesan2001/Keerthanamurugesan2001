@@ -1,4 +1,4 @@
-# Hi 👋, I'm Keerthana
+# Hi, I'm Keerthana
 
 I currently work at SoftSuave.
 ## Work Experience
@@ -28,38 +28,26 @@ I currently work at SoftSuave.
 
 <h3 align="left">Languages and Tools:</h3>
 
-### Frontend Technologies
-- Angular, Bootstrap, CSS, HTML, Javascript, Angular Material
-  
-### Backend Technologies
-- Python, C
-  
-### Framework
-- Django, Pyramid, Flask, Streamlit, Frappe, Node, Express, Nextjs
+**Frontend Technologies** - Angular, Bootstrap, CSS, HTML, Javascript, Angular Material
 
-### Containerization
+**Backend Technologies** - Python, C
 
-- Docker
+**Framework** - Django, Pyramid, Flask, Streamlit, Frappe, Node, Express, Nextjs
 
-### servers
-- Firebase, AWS (Lambda, EC2, S3, API Gateway, SQS, SNS), GCP (Pub/Sub, BigQuery, Firestore, Secret Manager)
+**Containerization** - Docker
 
-### OS
-- Linux, Window
+**servers** - Firebase, AWS (Lambda, EC2, S3, API Gateway, SQS, SNS), GCP (Pub/Sub, BigQuery, Firestore, Secret Manager)
 
-### DataBase
-- PostgreSQL, MariaDB, MongoDB, MySQL, GraphtQL, SQlite
+**OS** - Linux, Window
 
-### git
-- Bitbucket, Github
+**DataBase** - PostgreSQL, MariaDB, MongoDB, MySQL, GraphtQL, SQlite
 
-### Webserver
-- Nginx, Gunicorn, Uvicorn
+**git** - Bitbucket, Github
 
-### Testing Tool and API Documentation
-- Postman
+**Webserver** - Nginx, Gunicorn, Uvicorn
 
-### Messaging queues
-- Redis
+**Testing Tool and API Documentation** - Postman
+
+**Messaging queues** - Redis
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthanamuruge&label=Profile%20views&color=0e75b6&style=flat" alt="keerthanamuruge" /> </p>
