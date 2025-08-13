@@ -4,13 +4,14 @@ I currently work at SoftSuave.
 ## Work Experience
 - **Learn with Comic**: [Jan 2022 - March 2022]
   - Internship Project development and design
-- **SoftSuave**: [Software Engineer] [Mar 2022 - Present]
+- **SoftSuave**: [Software Engineer] [Mar 2022 - Jun 2025]
   - Worked on:
     - Pyramid and Django project
     - Angular and Node project
     - Currently working on ERPNext
     - POC on AI AGENT and RAG
-      
+  - **Orion Innovation**: [Software Engineer] [july 2025 - present]
+    
 📫 How to reach me **keerthuofficial@gmail.com**
   
 ### 🐱My Github stats:
